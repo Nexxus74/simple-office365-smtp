@@ -1,10 +1,15 @@
 ✨ Features
 
 📧 Office 365 SMTP Support – Pre-configured defaults for smtp.office365.com.
+
 🔒 Password Encryption – Uses PHP's Sodium library for secure storage.
+
 ⚙ Customizable Settings – Host, port, encryption, username, and “From” details.
+
 🧪 Test Email Tool – Send a test email directly from the admin panel.
+
 🛡 Security – Nonces, sanitization, and capability checks included.
+
 ♻ Clean Uninstall – Removes all plugin settings on uninstall.
 
 📥 **Installation**
