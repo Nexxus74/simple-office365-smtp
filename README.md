@@ -58,5 +58,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 👨‍💻 Author
 
-Developed by ᴎξXṵ§
+Developed by ᴎξXṵ§ with NinjaAI https://myninja.ai/
 - Feel free to contribute via pull requests or open issues for bug reports and feature requests.
